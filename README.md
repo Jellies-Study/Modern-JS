@@ -15,7 +15,7 @@
 
 ## 멤버
 
-|  ![황희정프로필](https://github.com/goatFE.png?size=100)  | ![박하은프로필](https://github.com/pullingoff.png?size=100) |    ![정보연프로필](https://github.com/boyeonJ.png?size=100)     |
+|  ![황희정프로필](https://github.com/hjstep.png?size=100)  | ![박하은프로필](https://github.com/pullingoff.png?size=100) |    ![정보연프로필](https://github.com/boyeonJ.png?size=100)     |
 |:---------------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------------:|
 |          [황희정](https://github.com/hjstep)           |         [박하은](https://github.com/pullingoff)          |         [정보연](https://github.com/boyeonJ)          |
 | ![양현화프로필](https://github.com/hhyanghh.png?size=100) |   ![류재경프로필](https://github.com/ujkey.png?size=100)    | ![송하프로필](https://github.com/poan1221.png?size=100) |                                                    |
